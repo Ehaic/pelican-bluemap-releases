@@ -1,7 +1,7 @@
 {
   "*": {
-    "version": "0.1.3",
-    "download_url": "https://raw.githubusercontent.com/Ehaic/pelican-bluemap-releases/main/releases/pelican-bluemap-0.1.3.zip",
-    "sha256": "cf2e3f23f7d2b4ddc8247239952a80983c058b88258353e68e32bef8d7fc1391"
+    "version": "0.1.4",
+    "download_url": "https://raw.githubusercontent.com/Ehaic/pelican-bluemap-releases/main/releases/pelican-bluemap-0.1.4.zip",
+    "sha256": "e50bbbec4573c59ccca1ed5d8e59b96a08ff2cdda1cc3456dc58476928b7aeac"
   }
 }
